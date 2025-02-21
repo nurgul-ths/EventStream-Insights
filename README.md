@@ -12,7 +12,6 @@ This project ingests JSON events, stores them in DynamoDB, batches data to Postg
 - Languages: Python, C#
 - Databases: DynamoDB (NoSQL), PostgreSQL (SQL)
 - Infrastructure: Terraform
-- CI/CD: GitHub Actions
 
 ## Getting Started
 - TODO: add info
