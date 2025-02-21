@@ -16,6 +16,7 @@ This project ingests JSON events, stores them in DynamoDB, batches data to Postg
 
 ## Getting Started
 - TODO: add info
+- 
 ### Prerequisites
 
 - AWS CLI configured
