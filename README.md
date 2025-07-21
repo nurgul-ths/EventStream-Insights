@@ -8,7 +8,7 @@ This project ingests JSON events, stores them in DynamoDB, batches data to Postg
 
 ## Tech Stack
 
-- AWS: Lambda, DynamoDB, API Gateway, EventBridge
+- AWS: Lambdas, DynamoDB, API Gateway, EventBridge
 - Languages: Python, C#
 - Databases: DynamoDB (NoSQL), PostgreSQL (SQL)
 - Infrastructure: Terraform
